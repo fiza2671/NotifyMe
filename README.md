@@ -13,6 +13,6 @@ https://www.loom.com/share/1b8f380ea7fc4a2b893abdc51ff5312f
 
 ### Team Members
 
-* [Kavya](https://github.com/kavya21)
+* [Kavya](https://github.com/kavya2001)
 * [Jumana](https://github.com/jumana316)
 * [Fiza](https://github.com/fiza2671)
