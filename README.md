@@ -7,6 +7,10 @@ This is a simple desktop notification app which notifies the users with the top 
 * Clone the code
 * Run the app `pythonw (path)`
 
+## Code Walkthrough
+
+https://www.loom.com/share/1b8f380ea7fc4a2b893abdc51ff5312f
+
 ### Team Members
 
 * [Kavya](https://github.com/kavya21)
