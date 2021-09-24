@@ -5,6 +5,7 @@ This is a simple desktop notification app which notifies the users with the top 
 ## How to Configure
 
 * Clone the code
+* Install the required libraries(plyer,requests)
 * Run the app `pythonw (path)`
 
 ## Code Walkthrough
